@@ -1,0 +1,40 @@
+[
+  {
+    "employeeType": "Employee",
+    "manager": "CN=Travis Russow,OU=Employees,OU=Users,OU=Imprivata-Accounts,DC=IMPRIVATA,DC=com",
+    "mail": "nate.pappas@imprivata.com",
+    "displayName": "Nate Pappas",
+    "givenName": "Nate",
+    "departmentNumber": "520 - Inside Sales",
+    "title": "Sales Associate",
+    "userAccountControl": "512"
+  },
+  {
+    "employeeType": "Employee",
+    "manager": "CN=Sam Oakes,OU=Employees,OU=Users,OU=Imprivata-Accounts,DC=IMPRIVATA,DC=com",
+    "mail": "rlisdonk@IMPRIVATA.com",
+    "displayName": "Ron van de Lisdonk",
+    "givenName": "Ron",
+    "departmentNumber": "620 - Professional Services",
+    "title": "Sr. Implementation Engineer",
+    "userAccountControl": "512"
+  },
+  {
+    "employeeType": "Zelda",
+    "manager": "CN=Rocky Kimmons,OU=Zelda,OU=Users,OU=Imprivata-Accounts,DC=IMPRIVATA,DC=com",
+    "mail": "Sarie.Dippenaar@IMPRIVATA.com",
+    "displayName": "Sarie Dippenaar",
+    "givenName": "Sarie",
+    "title": "QA Engineer Intermediate",
+    "userAccountControl": "512"
+  },
+  {
+    "employeeType": "Zelda",
+    "manager": "CN=Misa Rojo,OU=Zelda,OU=Users,OU=Imprivata-Accounts,DC=IMPRIVATA,DC=com",
+    "mail": "Anna.Clawson@IMPRIVATA.com",
+    "displayName": "Anna Clawson",
+    "givenName": "Anna",
+    "title": "Customer Success Manager",
+    "userAccountControl": "512"
+  }
+]
